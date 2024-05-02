@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and ML**
 
-- 👨‍💻 All of my projects are available at [https://harshvidyarthi312.wixsite.com/harshkumar](https://harshvidyarthi312.wixsite.com/harshkumar)
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/kumarharsh](https://www.datascienceportfol.io/kumarharsh)
 
 - 💬 Ask me about **SQL and Data Analysis**
 
