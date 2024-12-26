@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **okayharsh1@gmail.com**
 
-- ⚡ Fun fact **T think I am funny!**
+- ⚡ Fun fact **I think I am funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
