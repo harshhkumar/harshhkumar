@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://portfolio-harshh.vercel.app/)
+- 🔭 I’m currently working on [Building a fantasy-trading-platform]
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-harshh.vercel.app/](https://portfolio-harshh.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-harshh.vercel.app/)
 
 - 📫 How to reach me **okayharsh1@gmail.com**
 
